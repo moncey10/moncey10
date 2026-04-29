@@ -28,8 +28,7 @@ Python | FastAPI | Docker | PyTorch | TensorFlow | n8n | OpenAI
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)]((https://www.linkedin.com/in/moncey-patel-1010it))
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/moncey-patel-1010it)
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:monceypatel1010@gmail.com)## Hi there 👋
 
 <!--

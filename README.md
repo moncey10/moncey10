@@ -1,7 +1,7 @@
 # Hey, I'm Moncey Patel 👋
 
 🤖 AI/ML Engineer | Generative AI | LLM Pipelines | n8n Automation  
-📍 Surat, India | Final Year IT @ GTU | Open to Work
+📍 Surat, India  | Open to Work
 
 ---
 
